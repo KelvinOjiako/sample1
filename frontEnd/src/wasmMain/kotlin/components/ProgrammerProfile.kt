@@ -24,7 +24,7 @@ fun ProgrammerProfile(){
     Text("The Kotlin Monk", style = MaterialTheme.typography.h4,
         color = MaterialTheme.colors.primaryVariant, modifier = Modifier.padding(3.dp))
 
-    Text("Grandmaster Warrior Monk and part time Programmer",
+    Text("Guardian of Aikai and part time Programmer",
         modifier = Modifier.padding(3.dp))
 
     Text("Twitter: @KotlinMonk", style = MaterialTheme.typography.subtitle1,
